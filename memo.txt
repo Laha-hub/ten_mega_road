@@ -1,1 +1,2 @@
 #1 Create HTML Markup for Landing and Common Styles
+#2 Customize and Make Landing Page Work
