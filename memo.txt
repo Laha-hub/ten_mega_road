@@ -2,3 +2,4 @@
 #2 Customize and Make Landing Page Work
 #3 Create and Style The Most Popular Tours Section
 #4 Create and Customize Testimonials Section with Video Background
+#5 Create and Customize Contact Section with Animated Background
