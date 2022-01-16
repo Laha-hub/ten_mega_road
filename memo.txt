@@ -5,3 +5,4 @@
 #5 Create and Customize Contact Section with Animated Background
 #6 Create and Style Footer
 #7 Create and Make Navigation Work
+#8 Make Project Responsive
